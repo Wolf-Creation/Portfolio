@@ -4,7 +4,7 @@ header {
     height: 100vh;
 }
 
-.logo-icon img {
+.logo-icon video {
     height: 140px;
     width: 140px;
     left: 50%;
@@ -108,7 +108,7 @@ header {
     .talk> .text{
         display: none;
     }
-    .logo-icon img{
+    .logo-icon video{
         top: 15%;
         left: 50%;
         width: 30vh;
@@ -142,7 +142,7 @@ header {
 }
 
 @media screen and (max-width:800px) {
-    .logo-icon img{
+    .logo-icon video{
         top: 25%;
         left: 50%;
         width: 30vh;
@@ -182,7 +182,7 @@ header {
     .ellipse-right img {
         width: 300px;
     }
-    .logo-icon img{
+    .logo-icon video{
         top: 30%;
         left: 50%;
         width: 25vh;
@@ -196,7 +196,7 @@ header {
 }
 
 @media screen and (max-width:460px) {
-    .logo-icon > img{
+    .logo-icon > video{
         width: 20vh;
         height: 20vh;
     }
