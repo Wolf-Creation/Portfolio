@@ -18,13 +18,16 @@
     font-weight: 100;
     line-height: 35px;
     padding-bottom: 60px;
-    text-align: justify;
+    text-align: center;
+    width: 90%;
 }
 
-.about-media >img{
-    width: 100%;
+.about-media >video{
+    width: 60%;
     padding-bottom: 60px;
 }
+
+
 
 
 /* Responsive */
@@ -42,7 +45,7 @@
         align-items: center;
         justify-content: center;
     }
-    .about-media> img{
+    .about-media> video{
         width: 80vw;
     }
     .about-title{
