@@ -18,11 +18,11 @@ var project_table = [
         projectName: "The Sindbad",
         /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
         tools: "Figma", */
-        image: "/assets/img/project/Sindbad.png",
+        image: "/assets/img/project/Sindbad01.jpg",
         album: {
-            image1: "/assets/img/project/Sindbad_1.png",
-            image2: "/assets/img/project/Sindbad_2.png",
-            image3: "/assets/img/project/Sindbad_3.png"
+            image1: "/assets/img/project/Sindbad01.jpg",
+            image2: "/assets/img/project/Sindbad02.jpg",
+            image3: "/assets/img/project/Sindbad03.jpg"
         }
     },
     //Project3
@@ -30,10 +30,10 @@ var project_table = [
         projectName: "Helpdesk",
         /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
         tools: "Figma", */
-        image: "/assets/img/project/Helpdesk.png",
+        image: "/assets/img/project/Helpdesk_1.jpg",
         album: {
-            image1: "/assets/img/project/Helpdesk_1.png",
-            image2: "/assets/img/project/Helpdesk_2.png",
+            image1: "/assets/img/project/Helpdesk_1.jpg",
+            image2: "/assets/img/project/Helpdesk_2.jpg",
             image3: "/assets/img/project/Helpdesk_3.png"
         }
     },
@@ -78,11 +78,11 @@ var project_table = [
         projectName: "Estimator",
         /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
         tools: "Figma", */
-        image: "/assets/img/project/Big_estimator.png",
+        image: "/assets/img/project/Big-estimator01.jpg",
         album: {
-            image1: "/assets/img/project/Big_estimator_1.png",
-            image2: "/assets/img/project/Big_estimator_2.png",
-            image3: "/assets/img/project/Big_estimator_3.png"
+            image1: "/assets/img/project/Big-estimator01.jpg",
+            image2: "/assets/img/project/Big-estimator02.jpg",
+            image3: "/assets/img/project/Big-estimator03.jpg"
         }
     },
     //Project8
@@ -145,6 +145,38 @@ var project_table = [
             image3: "/assets/img/project/Fouras_3.png"
         }
     },
+    //project13
+    {
+        projectName: "Fritti",
+        /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
+        tools: "Figma", */
+        image: "/assets/img/project/fritti_01.jpg",
+        album: {
+            image1: "/assets/img/project/fritti_01.jpg",
+            image2: "/assets/img/project/fritti_02.jpg",
+            image3: "/assets/img/project/fritti_03.jpg"
+        }
+    },
+    //project13
+    {
+        projectName: "Dr Hichem Jaraya Website",
+        /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
+        tools: "Figma", */
+        image: "/assets/img/project/Dr_Hichem_Jaraya.jpg",
+        album: {
+            image1: "/assets/img/project/Dr_Hichem_Jaraya.jpg"
+        }
+    },
+    //project13
+    {
+        projectName: "Gisgo",
+        /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
+        tools: "Figma", */
+        image: "/assets/img/project/Gisgo.jpg",
+        album: {
+            image1: "/assets/img/project/Gisgo.jpg"
+        }
+    }
 ]
 
 const itemsPerPage = 6;

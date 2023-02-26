@@ -12,6 +12,14 @@ img.col-12{
     border-radius: 30px;
 }
 
+.modal-image {
+    border-radius: 20px !important;
+}
+
+.img1, .img2, .img3{
+    border-radius: 10px !important;
+}
+
 .modal-content{
     background-color: unset !important;
     border: none !important;

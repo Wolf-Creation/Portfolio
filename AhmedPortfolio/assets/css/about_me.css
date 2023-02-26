@@ -18,16 +18,15 @@
     font-weight: 100;
     line-height: 35px;
     padding-bottom: 60px;
-    text-align: center;
+    text-align: start;
     width: 90%;
+    text-align: justify;
 }
 
-.about-media >video{
-    width: 60%;
+.about-media >a>img{
+    width: 100%;
     padding-bottom: 60px;
 }
-
-
 
 
 /* Responsive */
@@ -68,5 +67,9 @@
     }
     .about-description{
         font-size: 20px;
+        order: 2;
+    }
+    .about-media{
+        order: 1;
     }
 }

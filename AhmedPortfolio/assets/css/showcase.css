@@ -25,6 +25,10 @@
     padding-bottom: 50px !important;
 }
 
+.project-preview> img{
+    border-radius: 10px;
+}
+
 .b{
     color: white;
     opacity: 28%;
@@ -51,7 +55,6 @@
 
 @media screen and  ( max-width:1400px) {
     .showcase-title{
-        /* font-size: 60px; */
         text-align: center;
         line-height: 60px;
     }
