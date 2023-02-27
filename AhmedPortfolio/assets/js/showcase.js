@@ -150,14 +150,14 @@ var project_table = [
         projectName: "Fritti",
         /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
         tools: "Figma", */
-        image: "/assets/img/project/fritti_01.jpg",
+        image: "/assets/img/project/Fritti_01.jpg",
         album: {
-            image1: "/assets/img/project/fritti_01.jpg",
+            image1: "/assets/img/project/Fritti_01.jpg",
             image2: "/assets/img/project/fritti_02.jpg",
             image3: "/assets/img/project/fritti_03.jpg"
         }
     },
-    //project13
+    //project14
     {
         projectName: "Dr Hichem Jaraya Website",
         /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
@@ -167,7 +167,7 @@ var project_table = [
             image1: "/assets/img/project/Dr_Hichem_Jaraya.jpg"
         }
     },
-    //project13
+    //project15
     {
         projectName: "Gisgo",
         /* projectDescription: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatem vero, nisi officiis fugit minima praesentium quam illum dolor vitae?",
